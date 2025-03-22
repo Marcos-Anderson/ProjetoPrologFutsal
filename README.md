@@ -1,2 +1,2 @@
 # ProjetoPrologFutsal
- Projeto realizado na diciplina de lógica para computação 
+ Projeto realizado na disciplina de lógica para computação 
